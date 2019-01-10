@@ -1,0 +1,13 @@
+---
+last_check:
+  etag: '"08aa9b167b219b725d4b6c4b80c55858"'
+  version: 1.8.9
+  at: 1547091188
+checked_completion: true
+completion_version: 1.8.9
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: PhQpD7j_Ff8Ldl4tTBLhYw
+repos:
+  yeaheo/gcr.io:
+    endpoint: https://api.travis-ci.org/
