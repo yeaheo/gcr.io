@@ -1,1 +1,1 @@
-k8s.gcr.io 相关镜像
+k8s.gcr.io 相关镜像同步
