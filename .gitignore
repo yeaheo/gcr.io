@@ -10,6 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
+.ash_history
 # vim
 *.swp
